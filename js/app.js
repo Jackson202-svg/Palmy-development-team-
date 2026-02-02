@@ -5,12 +5,13 @@ import { getFirestore, collection, getDocs } from "https://www.gstatic.com/fireb
 // Your web app's Firebase configuration
 // PASTE YOUR ACTUAL CONFIG HERE FROM THE FIREBASE CONSOLE
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "palmy-dev.firebaseapp.com",
-  projectId: "palmy-dev",
-  storageBucket: "palmy-dev.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "1:123456789:web:abcdef12345"
+  apiKey: "AIzaSyADMGwj9tdJXBQuVdgP1qnk1PhRgWckXoI",
+  authDomain: "finnhub-fc8d8.firebaseapp.com",
+  projectId: "finnhub-fc8d8",
+  storageBucket: "finnhub-fc8d8.firebasestorage.app",
+  messagingSenderId: "321063636416",
+  appId: "1:321063636416:web:8707092932102751b9cc25",
+  measurementId: "G-L3YBMNLXM5"
 };
 
 // Initialize Firebase
